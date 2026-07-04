@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=39F75F&center=true&vCenter=true&width=500&lines=Computer+Science+Student" alt="Computer Science Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=39F75F&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer" alt="Computer Science Engineer" />
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@
 ### 🚀 About Me
 
 👋 **Welcome to my workspace!**
-I am a **Computer Science** student at UPNA driven by the challenge of applying code to the physical world.
+I am a **Computer Science Engineer** from UPNA driven by the challenge of applying code to the physical world.
 
 My main focus is **Software Engineering for Autonomous Vehicles**, specifically **Drones** and aerial robotics. I specialize in building the intelligence, perception, and control layers that allow machines to operate independently.
 
-* 🔭 Currently studying: **ROS2 integration with Computer Vision for UAVs.**
+* 🏆 Featured Project: **[tello_autonomous_nav](https://github.com/alvaro-ros/tello_autonomous_nav)** - Autonomous navigation system with ROS2 and computer vision (Bachelor's Thesis graded 10.0/10).
 * 🌱 Deepening knowledge in: **Path Planning algorithms and Physics Simulations.**
 * ⚡ Fun fact: I write code that flies.
 
