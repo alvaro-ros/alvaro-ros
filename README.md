@@ -29,7 +29,7 @@ My main focus is **Software Engineering for Autonomous Vehicles**, specifically 
 
 * 🏆 Featured Project: **[tello_autonomous_nav](https://github.com/alvaro-ros/tello_autonomous_nav)** - Autonomous navigation system with ROS2 and computer vision (Bachelor's Thesis graded 10.0/10).
 * 🌱 Deepening knowledge in: **Path Planning algorithms and Physics Simulations.**
-* ⚡ Fun fact: I write code that flies.
+* ⚡ Currently working with: Event-based cameras and neuromorphic perception.
 
 ---
 
